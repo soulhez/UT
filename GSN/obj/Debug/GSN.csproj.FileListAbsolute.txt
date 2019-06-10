@@ -1,0 +1,7 @@
+M:\Project\IoC_DI\UT\GSN\bin\Debug\UT.GSN.dll
+M:\Project\IoC_DI\UT\GSN\bin\Debug\UT.GSN.pdb
+M:\Project\IoC_DI\UT\GSN\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\GSN\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\GSN\obj\Debug\GSN.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\GSN\obj\Debug\UT.GSN.dll
+M:\Project\IoC_DI\UT\GSN\obj\Debug\UT.GSN.pdb

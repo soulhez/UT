@@ -1,0 +1,7 @@
+M:\Project\IoC_DI\UT\Telephone\bin\Debug\UT.Telephone.dll
+M:\Project\IoC_DI\UT\Telephone\bin\Debug\UT.Telephone.pdb
+M:\Project\IoC_DI\UT\Telephone\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\Telephone\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\Telephone\obj\Debug\Telephone.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Telephone\obj\Debug\UT.Telephone.dll
+M:\Project\IoC_DI\UT\Telephone\obj\Debug\UT.Telephone.pdb

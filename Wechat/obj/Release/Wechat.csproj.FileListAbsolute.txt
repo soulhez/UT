@@ -1,0 +1,14 @@
+M:\Project\IoC_DI\UT\Wechat\bin\Release\UT.Wechat.dll
+M:\Project\IoC_DI\UT\Wechat\bin\Release\UT.Wechat.pdb
+M:\Project\IoC_DI\UT\Wechat\bin\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\Wechat\bin\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\Wechat\obj\Release\Wechat.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Wechat\obj\Release\UT.Wechat.dll
+M:\Project\IoC_DI\UT\Wechat\obj\Release\UT.Wechat.pdb
+J:\Projects\IoC_DI\UT\Wechat\bin\Release\UT.Wechat.dll
+J:\Projects\IoC_DI\UT\Wechat\bin\Release\UT.Wechat.pdb
+J:\Projects\IoC_DI\UT\Wechat\bin\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\Wechat\bin\Release\UT.Core.pdb
+J:\Projects\IoC_DI\UT\Wechat\obj\Release\Wechat.csprojResolveAssemblyReference.cache
+J:\Projects\IoC_DI\UT\Wechat\obj\Release\UT.Wechat.dll
+J:\Projects\IoC_DI\UT\Wechat\obj\Release\UT.Wechat.pdb

@@ -1,0 +1,14 @@
+M:\Project\IoC_DI\UT\Telephone\bin\Release\UT.Telephone.dll
+M:\Project\IoC_DI\UT\Telephone\bin\Release\UT.Telephone.pdb
+M:\Project\IoC_DI\UT\Telephone\bin\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\Telephone\bin\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\Telephone\obj\Release\Telephone.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Telephone\obj\Release\UT.Telephone.dll
+M:\Project\IoC_DI\UT\Telephone\obj\Release\UT.Telephone.pdb
+J:\Projects\IoC_DI\UT\Telephone\bin\Release\UT.Telephone.dll
+J:\Projects\IoC_DI\UT\Telephone\bin\Release\UT.Telephone.pdb
+J:\Projects\IoC_DI\UT\Telephone\bin\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\Telephone\bin\Release\UT.Core.pdb
+J:\Projects\IoC_DI\UT\Telephone\obj\Release\Telephone.csprojResolveAssemblyReference.cache
+J:\Projects\IoC_DI\UT\Telephone\obj\Release\UT.Telephone.dll
+J:\Projects\IoC_DI\UT\Telephone\obj\Release\UT.Telephone.pdb

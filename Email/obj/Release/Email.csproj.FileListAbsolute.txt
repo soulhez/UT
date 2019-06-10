@@ -1,0 +1,14 @@
+M:\Project\IoC_DI\UT\Email\bin\Release\UT.Email.dll
+M:\Project\IoC_DI\UT\Email\bin\Release\UT.Email.pdb
+M:\Project\IoC_DI\UT\Email\bin\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\Email\bin\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Email\obj\Release\UT.Email.dll
+M:\Project\IoC_DI\UT\Email\obj\Release\UT.Email.pdb
+J:\Projects\IoC_DI\UT\Email\bin\Release\UT.Email.dll
+J:\Projects\IoC_DI\UT\Email\bin\Release\UT.Email.pdb
+J:\Projects\IoC_DI\UT\Email\bin\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\Email\bin\Release\UT.Core.pdb
+J:\Projects\IoC_DI\UT\Email\obj\Release\Email.csprojResolveAssemblyReference.cache
+J:\Projects\IoC_DI\UT\Email\obj\Release\UT.Email.dll
+J:\Projects\IoC_DI\UT\Email\obj\Release\UT.Email.pdb

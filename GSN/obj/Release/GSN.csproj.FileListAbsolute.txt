@@ -1,0 +1,14 @@
+M:\Project\IoC_DI\UT\GSN\bin\Release\UT.GSN.dll
+M:\Project\IoC_DI\UT\GSN\bin\Release\UT.GSN.pdb
+M:\Project\IoC_DI\UT\GSN\bin\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\GSN\bin\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\GSN\obj\Release\GSN.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\GSN\obj\Release\UT.GSN.dll
+M:\Project\IoC_DI\UT\GSN\obj\Release\UT.GSN.pdb
+J:\Projects\IoC_DI\UT\GSN\bin\Release\UT.GSN.dll
+J:\Projects\IoC_DI\UT\GSN\bin\Release\UT.GSN.pdb
+J:\Projects\IoC_DI\UT\GSN\bin\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\GSN\bin\Release\UT.Core.pdb
+J:\Projects\IoC_DI\UT\GSN\obj\Release\GSN.csprojResolveAssemblyReference.cache
+J:\Projects\IoC_DI\UT\GSN\obj\Release\UT.GSN.dll
+J:\Projects\IoC_DI\UT\GSN\obj\Release\UT.GSN.pdb

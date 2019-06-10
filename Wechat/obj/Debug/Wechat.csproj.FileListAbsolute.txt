@@ -1,0 +1,7 @@
+M:\Project\IoC_DI\UT\Wechat\bin\Debug\UT.Wechat.dll
+M:\Project\IoC_DI\UT\Wechat\bin\Debug\UT.Wechat.pdb
+M:\Project\IoC_DI\UT\Wechat\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\Wechat\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\Wechat\obj\Debug\Wechat.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Wechat\obj\Debug\UT.Wechat.dll
+M:\Project\IoC_DI\UT\Wechat\obj\Debug\UT.Wechat.pdb

@@ -1,0 +1,7 @@
+M:\Project\IoC_DI\UT\Email\bin\Debug\UT.Email.dll
+M:\Project\IoC_DI\UT\Email\bin\Debug\UT.Email.pdb
+M:\Project\IoC_DI\UT\Email\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\Email\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\Email\obj\Debug\Email.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\Email\obj\Debug\UT.Email.dll
+M:\Project\IoC_DI\UT\Email\obj\Debug\UT.Email.pdb

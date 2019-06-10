@@ -1,0 +1,4 @@
+M:\Project\IoC_DI\UT\Core\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\Core\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\Core\obj\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\Core\obj\Debug\UT.Core.pdb

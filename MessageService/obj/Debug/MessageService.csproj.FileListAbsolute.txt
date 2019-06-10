@@ -1,0 +1,7 @@
+M:\Project\IoC_DI\UT\MessageService\bin\Debug\UT.MessageService.dll
+M:\Project\IoC_DI\UT\MessageService\bin\Debug\UT.MessageService.pdb
+M:\Project\IoC_DI\UT\MessageService\bin\Debug\UT.Core.dll
+M:\Project\IoC_DI\UT\MessageService\bin\Debug\UT.Core.pdb
+M:\Project\IoC_DI\UT\MessageService\obj\Debug\MessageService.csprojResolveAssemblyReference.cache
+M:\Project\IoC_DI\UT\MessageService\obj\Debug\UT.MessageService.dll
+M:\Project\IoC_DI\UT\MessageService\obj\Debug\UT.MessageService.pdb

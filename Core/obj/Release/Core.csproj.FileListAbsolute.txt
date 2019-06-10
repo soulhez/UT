@@ -1,0 +1,9 @@
+M:\Project\IoC_DI\UT\Core\bin\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\Core\bin\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\Core\obj\Release\UT.Core.dll
+M:\Project\IoC_DI\UT\Core\obj\Release\UT.Core.pdb
+M:\Project\IoC_DI\UT\Core\obj\Release\Core.csprojResolveAssemblyReference.cache
+J:\Projects\IoC_DI\UT\Core\bin\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\Core\bin\Release\UT.Core.pdb
+J:\Projects\IoC_DI\UT\Core\obj\Release\UT.Core.dll
+J:\Projects\IoC_DI\UT\Core\obj\Release\UT.Core.pdb
